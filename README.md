@@ -1,2 +1,2 @@
 # Project-Pandora
- Random Large size java program development
+Since being a new commer to programming this is my first attempt to make comples kind of programs
